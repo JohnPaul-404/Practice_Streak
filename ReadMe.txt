@@ -1,98 +1,104 @@
 Practice for Loop Questions : 
-Print numbers from 1 to 100 - Done
-Print all even numbers from 1 to 100 - Done
-Print all odd numbers from 1 to 100 - Done
-Calculate the sum of the first 100 natural numbers - Done
-Calculate the sum of all even numbers between 1 and 100.
-Calculate the sum of all odd numbers between 1 and 100.
-Print the multiplication table of a given number.
-Print the factorial of a given number.
-Print Fibonacci series up to a given number.
-Check if a given number is prime.
-Print all prime numbers between 1 and 100.
-Print the reverse of a given number.
-Check if a given number is a palindrome.
-Find the largest digit in a given number.
-Find the smallest digit in a given number.
-Calculate the sum of digits of a given number.
-Calculate the product of digits of a given number.
-Count the number of digits in a given number.
-Print all the factors of a given number.
-Check if a given number is a perfect number.
-Print the first 10 multiples of a given number.
-Print numbers from 1 to 100 in reverse order.
-Calculate the sum of squares of the first 100 natural numbers.
-Calculate the sum of cubes of the first 100 natural numbers.
-Print the first N terms of the arithmetic series.
-Print the first N terms of the geometric series.
-Print the first N terms of the harmonic series.
-Calculate the sum of the first N terms of an arithmetic series.
-Calculate the sum of the first N terms of a geometric series.
-Print the binary representation of a given number.
-Print the octal representation of a given number.
-Print the hexadecimal representation of a given number.
-Find the GCD of two given numbers using loops.
-Find the LCM of two given numbers using loops.
-Print all Armstrong numbers between 1 and 1000.
-Check if a given number is an Armstrong number.
-Print the sum of the first N prime numbers.
-Print the first N prime numbers.
-Print the first N Fibonacci numbers.
-Print the first N Lucas numbers.
-Check if a given year is a leap year.
-Calculate the power of a number using loops.
-Print a pattern of stars in the shape of a right triangle.
-Print a pattern of stars in the shape of an inverted right triangle.
-Print a pattern of stars in the shape of a pyramid.
-Print a pattern of numbers in the shape of a right triangle.
-Print a pattern of numbers in the shape of an inverted right triangle.
-Print a pattern of numbers in the shape of a pyramid.
-Print the first N numbers of the Pell series.
-Print the first N numbers of the Tribonacci series.
-Print the Collatz sequence for a given number.
-Calculate the sum of the first N even Fibonacci numbers.
-Calculate the sum of the first N odd Fibonacci numbers.
-Print the first N terms of the Catalan series.
-Print the first N terms of the Bell series.
-Print the first N terms of the Motzkin series.
-Print all composite numbers between 1 and 100.
-Check if a given number is a composite number.
-Print the first N happy numbers.
-Check if a given number is a happy number.
-Print the first N terms of the Tetranacci series.
-Print the first N terms of the Padovan series.
-Print the first N terms of the Jacobsthal series.
-Print the first N terms of the Mian-Chowla series.
-Calculate the sum of the first N square numbers.
-Calculate the sum of the first N cube numbers.
-Print the first N terms of the Lazy Caterer's sequence.
-Print the first N terms of the Look-and-say sequence.
-Print the first N terms of the Golomb sequence.
-Calculate the sum of the first N triangular numbers.
-Print the first N terms of the Ulam sequence.
-Print the first N terms of the Sylvester's sequence.
-Print the first N terms of the Euler's totient function.
-Print the first N terms of the Jacobsthal-Lucas series.
-Print the first N terms of the Cauchy numbers of the first kind.
-Print the first N terms of the Cauchy numbers of the second kind.
-Print the first N terms of the Erdős–Woods sequence.
-Print the first N terms of the Euclid-Mullin sequence.
-Print the first N terms of the Euclid number sequence.
-Print the first N terms of the Farey sequence of order N.
-Print the first N terms of the Fibonacci-Lucas sequence.
-Print the first N terms of the Fibonacci polynomials.
-Print the first N terms of the Fibonacci Q-matrix.
-Print the first N terms of the Gaussian Fibonacci sequence.
-Print the first N terms of the Lucas polynomials.
-Print the first N terms of the Narayana's cows sequence.
-Print the first N terms of the Perrin sequence.
-Print the first N terms of the Pisano period.
-Print the first N terms of the Stern's diatomic series.
-Print the first N terms of the Stribeck numbers.
-Print the first N terms of the Sylvester's sequence.
-Print the first N terms of the Tribonacci-Lucas sequence.
-Print the first N terms of the Zeckendorf representation.
-Print the first N terms of the Zeckendorf sequence.
+Print_numbers_from_1_to_100 - Done
+Print_all_even_numbers_from_1_to_100 - Done
+Print_all_odd_numbers_from_1_to_100 - Done
+Calculate_the_sum_of_the_first_100_natural_numbers - Done
+Calculate_the_sum_of_all_even_numbers_between_1_and_100 - Done
+Calculate_the_sum_of_all_odd_numbers_between_1_and_100 - Done
+Print_the_multiplication_table_of_a_given_number 
+Print_the_factorial_of_a_given_number 
+Print_Fibonacci_series_up_to_a_given_number 
+Check_if_a_given_number_is_prime.
+Print_all_prime_numbers_between_1_and_100.
+Print_the_reverse_of_a_given_number.
+Check_if_a_given_number_is_a_palindrome.
+Find_the_largest_digit_in_a_given_number.
+Find_the_smallest_digit_in_a_given_number.
+Calculate_the_sum_of_digits_of_a_given_number.
+Calculate_the_product_of_digits_of_a_given_number.
+Count_the_number_of_digits_in_a_given_number.
+Print_all_the_factors_of_a_given_number.
+Check_if_a_given_number_is_a_perfect_number.
+Print_the_first_10_multiples_of_a_given_number.
+Print_numbers_from_1_to_100_in_reverse_order.
+Calculate_the_sum_of_squares_of_the_first_100_natural_numbers.
+Calculate_the_sum_of_cubes_of_the_first_100_natural_numbers.
+Print_the_first_N_terms_of_the_arithmetic_series.
+Print_the_first_N_terms_of_the_geometric_series.
+Print_the_first_N_terms_of_the_harmonic_series.
+Calculate_the_sum_of_the_first_N_terms_of_an_arithmetic_series.
+Calculate_the_sum_of_the_first_N_terms_of_a_geometric_series.
+Print_the_binary_representation_of_a_given_number.
+Print_the_octal_representation_of_a_given_number.
+Print_the_hexadecimal_representation_of_a_given_number.
+Find_the_GCD_of_two_given_numbers_using_loops.
+Find_the_LCM_of_two_given_numbers_using_loops.
+Print_all_Armstrong_numbers_between_1_and_1000.
+Check_if_a_given_number_is_an_Armstrong_number.
+Print_the_sum_of_the_first_N_prime_numbers.
+Print_the_first_N_prime_numbers.
+Print_the_first_N_Fibonacci_numbers.
+Print_the_first_N_Lucas_numbers.
+Check_if_a_given_year_is_a_leap_year.
+Calculate_the_power_of_a_number_using_loops.
+Print_a_pattern_of_stars_in_the_shape_of_a_right_triangle.
+Print_a_pattern_of_stars_in_the_shape_of_an_inverted_right_triangle.
+Print_a_pattern_of_stars_in_the_shape_of_a_pyramid.
+Print_a_pattern_of_numbers_in_the_shape_of_a_right_triangle.
+Print_a_pattern_of_numbers_in_the_shape_of_an_inverted_right_triangle.
+Print_a_pattern_of_numbers_in_the_shape_of_a_pyramid.
+Print_the_first_N_numbers_of_the_Pell_series.
+Print_the_first_N_numbers_of_the_Tribonacci_series.
+Print_the_Collatz_sequence_for_a_given_number.
+Calculate_the_sum_of_the_first_N_even_Fibonacci_numbers.
+Calculate_the_sum_of_the_first_N_odd_Fibonacci_numbers.
+Print_the_first_N_terms_of_the_Catalan_series.
+Print_the_first_N_terms_of_the_Bell_series.
+Print_the_first_N_terms_of_the_Motzkin_series.
+Print_all_composite_numbers_between_1_and_100.
+Check_if_a_given_number_is_a_composite_number.
+Print_the_first_N_happy_numbers.
+Check_if_a_given_number_is_a_happy_number.
+Print_the_first_N_terms_of_the_Tetranacci_series.
+Print_the_first_N_terms_of_the_Padovan_series.
+Print_the_first_N_terms_of_the_Jacobsthal_series.
+Print_the_first_N_terms_of_the_Mian-Chowla_series.
+Calculate_the_sum_of_the_first_N_square_numbers.
+Calculate_the_sum_of_the_first_N_cube_numbers.
+Print_the_first_N_terms_of_the_Lazy_Caterer's_sequence.
+Print_the_first_N_terms_of_the_Look-and-say_sequence.
+Print_the_first_N_terms_of_the_Golomb_sequence.
+Calculate_the_sum_of_the_first_N_triangular_numbers.
+Print_the_first_N_terms_of_the_Ulam_sequence.
+Print_the_first_N_terms_of_the_Sylvester's_sequence.
+Print_the_first_N_terms_of_the_Euler's_totient_function.
+Print_the_first_N_terms_of_the_Jacobsthal-Lucas_series.
+Print_the_first_N_terms_of_the_Cauchy_numbers_of_the_first_kind.
+Print_the_first_N_terms_of_the_Cauchy_numbers_of_the_second_kind.
+Print_the_first_N_terms_of_the_Erdős–Woods_sequence.
+Print_the_first_N_terms_of_the_Euclid-Mullin_sequence.
+Print_the_first_N_terms_of_the_Euclid_number_sequence.
+Print_the_first_N_terms_of_the_Farey_sequence_of_order_N.
+Print_the_first_N_terms_of_the_Fibonacci-Lucas_sequence.
+Print_the_first_N_terms_of_the_Fibonacci_polynomials.
+Print_the_first_N_terms_of_the_Fibonacci_Q-matrix.
+Print_the_first_N_terms_of_the_Gaussian_Fibonacci_sequence.
+Print_the_first_N_terms_of_the_Lucas_polynomials.
+Print_the_first_N_terms_of_the_Narayana's_cows_sequence.
+Print_the_first_N_terms_of_the_Perrin_sequence.
+Print_the_first_N_terms_of_the_Pisano_period.
+Print_the_first_N_terms_of_the_Stern's_diatomic_series.
+Print_the_first_N_terms_of_the_Stribeck_numbers.
+Print_the_first_N_terms_of_the_Sylvester's_sequence.
+Print_the_first_N_terms_of_the_Tribonacci-Lucas_sequence.
+Print_the_first_N_terms_of_the_Zeckendorf_representation.
+Print_the_first_N_terms_of_the_Zeckendorf_sequence.
+Print_the_first_N_terms_of_the_zeta_function.
+Calculate_the_sum_of_the_first_N_terms_of_the_zeta_function.
+Calculate_the_product_of_the_first_N_terms_of_the_zeta_function.
+Print_the_first_N_terms_of_the_zigzag_numbers.
+Print_the_first_N_terms_of_the_binary_representation_of_the_Fibonacci_numbers.
+Print_the_first_N_terms_of_the_binary_representation_of_the_Lucas_numbers.
 Print the first N terms of the zeta function.
 Calculate the sum of the first N terms of the zeta function.
 Calculate the product of the first N terms of the zeta function.
